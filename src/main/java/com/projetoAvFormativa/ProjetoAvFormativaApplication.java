@@ -1,0 +1,13 @@
+package com.projetoAvFormativa;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjetoAvFormativaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjetoAvFormativaApplication.class, args);
+	}
+
+}
